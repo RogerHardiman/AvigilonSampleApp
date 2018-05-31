@@ -1,0 +1,23 @@
+﻿#
+#  String Localization Table
+#
+#  This file has two comma-separated columns, the first column is the string
+#  key, the second is the localized value.
+#
+#  This file MUST be UTF-8 encoded, and must only be edited by text editors
+#  that are capable of editing UTF-8 text files.  The following editors have
+#  been confirmed as working properly:
+#
+#    Visual Studio
+#    SciTE
+#
+#  The following text editors DO NOT WORK, do not use them or you will
+#  destroy this file:
+#
+#    XEmacs
+#    EditPlus
+
+
+# Note: This file is left blank intentionally, as the failover strings file
+# (strings.txt) is in English.  Having this file allows English to be selected
+# in Control Center Client.
